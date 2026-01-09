@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Constants
-CONFIG_DIR="/etc/pve/nodes/pve-05/lxc"
+CONFIG_DIR="/etc/pve/lxc"
 TMP_DIR="/tmp"
 
 # Function to display log messages
